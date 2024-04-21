@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 1547.91 1284.25" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="TextBounds">
+<rect height="230.457" transform="matrix(0.352734 -0 -0 0.352734 2 -244)" width="118.873" x="-5.67" y="691.74"/>
+</clipPath>
+<clipPath id="TextBounds_2">
+<rect height="230.457" transform="matrix(0.352734 -0 -0 0.352734 -239.985 -162.235)" width="118.873" x="680.357" y="459.937"/>
+</clipPath>
+<clipPath id="TextBounds_3">
+<rect height="230.457" transform="matrix(0.352734 -0 -0 0.352734 -486 -201)" width="66.2681" x="1377.81" y="569.835"/>
+</clipPath>
+</defs>
+<clipPath id="ArtboardFrame">
+<rect height="1284.25" width="1547.91" x="0" y="0"/>
+</clipPath>
+<g clip-path="url(#ArtboardFrame)" id="Layer_x0020_1" vectornator:layerName="Layer_x0020_1">
+<path d="M1536.57 14.175L1085.81 348.705L1085.81 1275.75L1536.57 938.385L1536.57 14.175Z" fill="#cc3f1a" fill-opacity="0.270588" fill-rule="evenodd" opacity="1" stroke="none"/>
+<path d="M1536.57 14.175L161.595 348.705L161.595 1272.91L1536.57 938.385L1536.57 14.175Z" fill="#4169b3" fill-opacity="0.290196" fill-rule="evenodd" opacity="1" stroke="none"/>
+<path d="M612.36 22.68L612.36 946.89L1536.57 946.89" fill="none" opacity="1" stroke="#000000" stroke-dasharray="30.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="9.00212"/>
+<path d="M164.43 343.035L615.195 8.505" fill="none" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="22.5053"/>
+<path d="M1085.81 1275.75L1536.57 938.385" fill="none" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="22.5053"/>
+<path d="M167.265 1278.59L620.865 944.055" fill="none" opacity="1" stroke="#000000" stroke-dasharray="30.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="9.00212"/>
+<text clip-path="url(#TextBounds)" fill="#000000" font-family="Arial" font-size="70" opacity="1" stroke="none" text-anchor="start" transform="matrix(2.835 0 0 2.835 -5.67 691.74)" vectornator:width="41.9307" x="0" y="0">
+<tspan textLength="38.9307" x="0" y="63">a</tspan>
+</text>
+<path d="M161.595 1272.91L1528.07 25.515" fill="none" opacity="1" stroke="#003399" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="22.5053"/>
+<path d="M1528.07 25.515L1085.81 1275.75" fill="none" opacity="1" stroke="#cc3300" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="22.5053"/>
+<path d="M1074.46 360.045L1528.07 25.515" fill="none" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="22.5053"/>
+<path d="M612.36 14.175L1536.57 14.175L1536.57 938.385" fill="none" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="22.5053"/>
+<text clip-path="url(#TextBounds_2)" fill="#003399" font-family="Arial" font-size="70" opacity="1" stroke="none" text-anchor="start" transform="matrix(2.835 0 0 2.835 680.357 459.937)" vectornator:width="41.9307" x="0" y="0">
+<tspan textLength="38.9307" x="0" y="63">d</tspan>
+</text>
+<text clip-path="url(#TextBounds_3)" fill="#cc3300" font-family="Arial" font-size="70" opacity="1" stroke="none" text-anchor="start" transform="matrix(2.835 0 0 2.835 1377.81 569.835)" vectornator:width="23.375" x="0" y="0">
+<tspan textLength="19.4482" x="0" y="63">f</tspan>
+</text>
+<path d="M161.595 348.705L1085.81 348.705L1085.81 348.705L1085.81 1272.91L1085.81 1272.91L161.595 1272.91L161.595 1272.91L161.595 348.705L161.595 348.705Z" fill="none" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="22.5053"/>
+</g>
+</svg>

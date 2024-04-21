@@ -1,0 +1,476 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@100;300;400;500;700;800;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    font-size: 100%;
+    background: linear-gradient(180deg, #361A5F 0%, #9F4172 100%);
+    color: #ffffff;
+}
+
+/* Formatação do cabeçalho */
+nav {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+nav img {
+    width: 100px;
+    height: auto;
+}
+
+nav ul li {
+    display: inline;
+    transition: 0.5s;
+    padding: 15px;
+    margin: 20px;
+    border-radius: 25px;
+    background: #86419F;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    transition: 0.5s;
+}
+
+nav ul li:hover {
+    background: #5d2671;
+    transition: 0.5s;
+}
+
+nav ul li a {
+    font-family: "Poppins", sans-serif;
+    color: #ffffff;
+    font-weight: 600;
+}
+
+/* Formatação do conteudo */
+
+.conteudo {
+    border-top: 2px solid #c0abd1;
+    margin-bottom: 30px;
+}
+
+.conteudo-principal {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.conteudo-principal-escrito {
+    display: flex;
+    flex-direction: column;
+    width: 945px;
+    gap: 32px;
+    margin: 50px;
+}
+
+.conteudo-secundario {
+    background-color: #F4F3F3;
+    border-radius: 15px;
+    border: 6px solid #5d0aa0;
+    margin: 5em;
+}
+
+.formulario-img {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding: 10px 60px 60px 60px;
+}
+
+.titulos {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin: 70px 0px 50px 0px;
+}
+
+.titulo-principal {
+    font-family: "M PLUS Rounded 1c", sans-serif;
+    color: #FEB751;
+    font-size: 70px;
+    font-weight: 800;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+}
+
+.titulo-formas {
+    font-size: 50px;
+    text-align: center;
+    padding: 10px;
+}
+
+.titulo-pla {
+    font-size: 40px;
+    text-align: center;
+}
+
+.titulo-astro {
+    font-family: "M PLUS Rounded 1c", sans-serif;
+    font-size: 35px;
+    font-weight: 800;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+}
+
+
+.subtitulo-principal {
+    font-family: "M PLUS Rounded 1c", sans-serif;
+    color: #FEB751;
+    font-size: 35px;
+    font-weight: 800;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+}
+
+.subtitulo-formas {
+    color: #ffffff;
+    text-align: center;
+}
+
+.subtitulo-pla {
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+}
+
+.subtitulo-astro {
+    font-family: "M PLUS Rounded 1c", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+}
+
+.paragrafo-principal {
+    font-family: "Poppins", sans-serif;
+    color: #FFF;
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.paragrafo-secundario {
+    color: #000000;
+    font-weight: 400;
+    font-size: 24px;
+}
+
+.descricao-formas {
+    padding: 10px 60px 60px 60px;
+}
+
+.imagem-principal {
+    width: 450px;
+    height: auto;
+}
+
+.imagem-planeta {
+    width: 120px;
+    height: auto;
+    margin: 5px 0px 10px 0px;
+}
+
+.imagem-formas {
+    width: 20em;
+    height: auto;
+    margin: 20px 20px 20px;
+}
+
+button {
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    color: #000;
+    background-color: #fff;
+    border-radius: 30px;
+    padding: 1.3em 3em;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    border: none;
+}
+
+button:hover {
+    background-color: #FEB751;
+    box-shadow: 0px 15px 20px hsla(55, 78%, 54%, 0.3);
+    color: #ffffff;
+    transform: translateY(-7px);
+}
+
+button:active {
+    transform: translateY(-1px);
+}
+
+.figuras1 {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 50px;
+}
+
+.pla1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #F4F3F3;
+    width: 20em;
+    height: 20em;
+    border-radius: 15px;
+}
+
+.border-gradient {
+
+    border-radius: 15px;
+    border: 6px solid transparent;
+}
+
+.formulario {
+    background-color: #F4F3F3;
+    margin: 20px;
+    width: 50%;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    border-radius: 15px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    gap: 20px;
+}
+
+.campo-desc {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+form label,
+#resultado {
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    color: #000;
+}
+
+form input {
+    color: #8b1e97;
+    font-weight: 600;
+    border: 0;
+    padding: 10px;
+    min-height: 30px;
+    font-size: 20px;
+    border-bottom: 1.5px solid #000000;
+    background: transparent;
+}
+
+#resultado:hover {
+    color: #8b1e97;
+}
+
+select {
+    font-family: "Poppins", sans-serif;
+    color: #8b1e97;
+    font-weight: 600;
+    border: 0;
+    padding: 10px;
+    min-height: 30px;
+    font-size: 20px;
+    border-bottom: 1.5px solid #000000;
+    background: transparent;
+}
+
+option {
+    font-family: "Poppins", sans-serif;
+    background-color: #ffffff;
+    color: #8b1e97;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+option:hover {
+    background-color: #127F6F;
+}
+
+/* Mercúrio */
+.titulo-mercurio {
+    color: #AD6B32;
+}
+
+.botao-mercurio {
+    background-color: #ffffff;
+}
+
+button.botao-mercurio:hover {
+    background-color: #AD6B32;
+    box-shadow: 0px 15px 20px #3c2b1c;
+    color: #ffffff;
+}
+
+.border-mercurio {
+    background: linear-gradient(white, white) padding-box, linear-gradient(to bottom, #B7AF81, #AA581C) border-box;
+}
+
+/* Vênus */
+.titulo-venus {
+    color: #BD6C05;
+}
+
+.botao-venus {
+    background-color: #ffffff;
+}
+
+button.botao-venus:hover {
+    background-color: #BD6C05;
+    box-shadow: 0px 15px 20px #814b05;
+    color: #ffffff;
+}
+
+.border-venus {
+    background: linear-gradient(white, white) padding-box, linear-gradient(to bottom, #FFAB00, #C53D07) border-box;
+}
+
+/* Terra */
+.titulo-terra {
+    color: #128076;
+}
+
+.botao-terra {
+    background-color: #ffffff;
+}
+
+button.botao-terra:hover {
+    background-color: #128076;
+    box-shadow: 0px 15px 20px #0a453c;
+    color: #ffffff;
+}
+
+.border-terra {
+    background: linear-gradient(white, white) padding-box, linear-gradient(to bottom, #19B21C, #0A4CD3) border-box;
+}
+
+/* Marte */
+.titulo-marte {
+    color: #DF3727;
+}
+
+.botao-marte {
+    background-color: #ffffff;
+}
+
+button.botao-marte:hover {
+    background-color: #DF3727;
+    box-shadow: 0px 15px 20px #6e2c13;
+    color: #ffffff;
+}
+
+.border-marte {
+    background: linear-gradient(white, white) padding-box, linear-gradient(to bottom, #F56735, #CA0719) border-box;
+}
+
+/* Júpiter */
+.titulo-jupiter,
+.titulo-formas-calculo {
+    color: #6b6c4c;
+}
+
+.botao-jupiter {
+    background-color: #ffffff;
+}
+
+button.botao-jupiter:hover {
+    background-color: #787958;
+    box-shadow: 0px 15px 20px #4d3219;
+    color: #ffffff;
+}
+
+.border-jupiter {
+    background: linear-gradient(white, white) padding-box, linear-gradient(to bottom, #6ABECA, #D6842F) border-box;
+}
+
+/* Saturno */
+.titulo-saturno {
+    color: #94578E;
+}
+
+.botao-saturno {
+    background-color: #ffffff;
+}
+
+button.botao-saturno:hover {
+    background-color: #94578E;
+    box-shadow: 0px 15px 20px #63355f;
+    color: #ffffff;
+}
+
+.border-saturno {
+    background: linear-gradient(white, white) padding-box, linear-gradient(to bottom, #ED8449, #6749AD) border-box;
+}
+
+/* urano */
+.titulo-urano {
+    color: #0DA7DB;
+}
+
+.botao-urano {
+    background-color: #ffffff;
+}
+
+button.botao-urano:hover {
+    background-color: #0DA7DB;
+    box-shadow: 0px 15px 20px #0f5889;
+    color: #ffffff;
+}
+
+.border-urano {
+    background: linear-gradient(white, white) padding-box, linear-gradient(to bottom, #2FC7DD, #065BA8) border-box;
+}
+
+/* Netuno */
+.titulo-netuno {
+    color: #134DBB;
+}
+
+.botao-netuno {
+    background-color: #ffffff;
+}
+
+button.botao-netuno:hover {
+    background-color: #134DBB;
+    box-shadow: 0px 15px 20px #0e2e71;
+    color: #ffffff;
+}
+
+.border-netuno {
+    background: linear-gradient(white, white) padding-box, linear-gradient(to bottom, #1E65E5, #053C80) border-box;
+}
+
+/* Sol */
+.titulo-sol {
+    color: #bfae13;
+}
+
+.botao-sol {
+    background-color: #ffffff;
+}
+
+button.botao-sol:hover {
+    background-color: #bfae13;
+    box-shadow: 0px 15px 20px #746a10;
+    color: #ffffff;
+}
+
+.border-sol {
+    background: linear-gradient(white, white) padding-box, linear-gradient(to bottom, #C2B119, #E5CE00) border-box;
+}

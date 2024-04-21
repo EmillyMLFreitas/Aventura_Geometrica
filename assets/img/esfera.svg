@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 7841.61 4955.58" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="TextBounds">
+<rect height="1307.18" transform="matrix(0.352734 -0 -0 0.352734 -1794.99 -931.447)" width="397.387" x="5088.8" y="2640.65"/>
+</clipPath>
+</defs>
+<clipPath id="ArtboardFrame">
+<rect height="4955.58" width="7841.61" x="0" y="0"/>
+</clipPath>
+<g clip-path="url(#ArtboardFrame)" id="Layer_x0020_1" vectornator:layerName="Layer_x0020_1">
+<g opacity="1">
+<path d="M7779.24 3892.45C7779.24 4442.44 6049.89 4890.38 3920.8 4890.38C1791.72 4890.38 62.37 4442.44 62.37 3892.45C76.545 1774.71 1803.06 62.37 3920.8 62.37C6049.89 62.37 7779.24 1763.37 7779.24 3892.45Z" fill="#003399" fill-opacity="0.301961" fill-rule="evenodd" opacity="1" stroke="none"/>
+<path d="M7779.24 3892.45C7779.24 4442.44 6049.89 4890.38 3920.8 4890.38C1791.72 4890.38 62.37 4442.44 62.37 3892.45C76.545 1774.71 1803.06 62.37 3920.8 62.37C6049.89 62.37 7779.24 1763.37 7779.24 3892.45Z" fill="none" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="126.774"/>
+</g>
+<text clip-path="url(#TextBounds)" fill="#000000" font-family="Arial" font-size="400" opacity="1" stroke="none" text-anchor="start" transform="matrix(2.835 0 0 2.835 5088.8 2640.65)" vectornator:width="140.172" x="0" y="0">
+<tspan textLength="133.203" x="0" y="362">r</tspan>
+</text>
+<path d="M107.73 3915.13C107.73 3268.76 1822.9 2747.11 3940.65 2747.11C6058.39 2747.11 7773.57 3268.76 7773.57 3915.13" fill="none" opacity="1" stroke="#000000" stroke-dasharray="200.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="50.7099"/>
+<path d="M7541.1 3940.65L7541.1 3889.62L7793.41 3889.62L7793.41 3940.65L7541.1 3940.65ZM7033.64 3940.65L7033.64 3889.62L7288.78 3889.62L7288.78 3940.65L7033.64 3940.65ZM6526.17 3940.65L6526.17 3889.62L6781.32 3889.62L6781.32 3940.65L6526.17 3940.65ZM6018.7 3940.65L6018.7 3889.62L6273.85 3889.62L6273.85 3940.65L6018.7 3940.65ZM5514.07 3940.65L5514.07 3889.62L5766.39 3889.62L5766.39 3940.65L5514.07 3940.65ZM5006.61 3940.65L5006.61 3889.62L5258.93 3889.62L5258.93 3940.65L5006.61 3940.65ZM4499.14 3940.65L4499.14 3889.62L4751.46 3889.62L4751.46 3940.65L4499.14 3940.65ZM3991.68 3940.65L3991.68 3889.62L4243.99 3889.62L4243.99 3940.65L3991.68 3940.65ZM4037.04 4014.36L3841.42 4014.36L3841.42 3813.07L4037.04 3813.07L4037.04 4014.36Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="none"/>
+</g>
+</svg>
